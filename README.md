@@ -1,1 +1,7 @@
-# learning
+# Обучение
+
+## Очереди
+
+### RabbitMQ
+
+### Kafka
